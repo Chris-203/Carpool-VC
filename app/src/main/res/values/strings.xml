@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Carpool VC</string>
+    <string name="welcome_label">Welcome</string>
+    <string name="search_listing_label">Search Listings</string>
+    <string name="log_in_button">Log in</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="username_login_label">Username</string>
+    <string name="password_login_label">Password</string>
+
+    <!-- for account creation screen -->
+    <string name="create_account_label">Create Account</string>
+    <string name="username_label">Username: </string>
+    <string name="password_label">Password: </string>
+    <string name="name_label">Full Name: </string>
+    <string name="email_label">Vassar Email: </string>
+
+    <string name="name_hint_label">Ex: John Doe</string>
+    <string name="email_hint_label">Ex: jdoe@vassar.edu</string>
+    <string name="username_hint_label">Ex: johndoe</string>
+    <string name="password_hint_label">Ex: johnDoe!</string>
+    <string name="create_button_label">Create</string>
+
+    <!-- for listing creation screen -->
+    <string name="create_listing_label">Create Listing</string>
+    <string name="date_label">Date: </string>
+    <string name="time_label">Time: </string>
+    <string name="role_label">Driver or Passenger</string>
+    <string name="seats_label"> Seats available: </string>
+    <string name="start_location_label">Start Location: </string>
+    <string name="end_location_label">End Location: </string>
+    <string name="passenger_label">Passenger</string>
+    <string name="driver_label">Driver</string>
+    <string name="date_hint_label">mm/dd/yyyy</string>
+    <string name="time_hint_label">hh:mm</string>
+    <string name="start_location_hint_label">Ex:123 Name Street, City, ST ZIP</string>
+    <string name="end_location_hint_label">Ex:123 Name Street, City, ST ZIP</string>
+    <string name="seats_hint_label">Type seats available</string>
+    <string name="add_button_label">Add</string>
+
+    <!-- for filter screen -->
+    <string name="filter_label">Filter All Listings</string>
+    <string name="date_wanted_label">Date: </string>
+    <string name="time_wanted_label">Time: </string>
+    <string name="role_wanted_label">Do You Want a Driver or Passenger?</string>
+    <string name="seats_wanted_label"> Seats available: </string>
+    <string name="start_location_wanted_label">Start Location: </string>
+    <string name="end_location_wanted_label">End Location: </string>
+    <string name="passenger_wanted_label">Passenger</string>
+    <string name="driver_wanted_label">Driver</string>
+    <string name="date_wanted_hint_label">mm/dd/yyyy</string>
+    <string name="time_wanted_hint_label">hh:mm</string>
+    <string name="start_wanted_location_hint_label">Ex:123 Name Street, City, ST ZIP</string>
+    <string name="end_wanted_location_hint_label">Ex:123 Name Street, City, ST ZIP</string>
+    <string name="seats_wanted_hint_label">Type seats available</string>
+    <string name="filter_button_label">Filter</string>
+    <!-- Dashboard -->
+    <string name="element_text">Element</string>
+    <string name="linear_layout_manager">Latest trips planned</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="listing_details">Listing Details:</string>
+    <string name="role_placeholder">Role Placeholder</string>
+    <string name="date_time_placeholder">Date,Time Placeholder</string>
+    <string name="destination_holder">Destination Placeholder</string>
+    <string name="destination">Destination:</string>
+    <string name="type">Type:</string>
+    <string name="meeting_point">Meet Point: </string>
+    <string name="start_placeholder">Start      Placeholder</string>
+    <string name="posted_on">Posted on:</string>
+    <string name="trip_date_time_placeholder">Date/Time Placeholder</string>
+    <string name="when">When:</string>
+    <string name="seats_phrase">Seats Phrase</string>
+    <string name="seats_placeholder">Seats Placeholder</string>
+    <string name="close">Close</string>
+    <string name="contact">Contact</string>
+    <string name="exclamation_point">!</string>
+    <string name="name_holder">Name holder</string>
+    <string name="invalid_credentials_msg">Signin failed. Invalid credentials.</string>
+    <string name="contact_details">Contact Details:</string>
+    <string name="user_s_email">User\'s email: </string>
+    <string name="email_holder">email holder</string>
+    <string name="show_all_trips">Refresh all trips</string>
+    <string name="list_name_holder">Name holder</string>
+    <string name="posted_by">Posted by:</string>
+
+</resources>
